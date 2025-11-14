@@ -1,7 +1,7 @@
 # Atalay PABUŞÇU - Software Architect
 
 <p>
-  <a href="https://www.linkedin.com/in/atalay-pabu%C5%9F%C3%A7u-729386177" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/atalay-pabu%C5%9F%C3%A7u-729386177" target="_blank" rel="nofollow noopener noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> Linkedin/Atalay Pabuşçu
   </a> &nbsp; 
 </p>
