@@ -13,17 +13,19 @@ I have a strong passion for software development. Over the years, I've gained ha
   <h2 >GitHub Repo Abbreviations</h2>
 </div>
 
-- ```cw```: C Workspace (C projects, professional libraries, templates, documents)
-- ```cppw```: C++ Workspace (Cpp projects, professional libraries, templates, documents)
+- ```cw```: C Workspace (C projects, professional libraries, efficient code, etc.)
+- ```cppw```: C++ Workspace (Cpp projects, professional libraries, templates, documents, etc.)
+- ```csw```: C# Workspace (C# projects, professional libraries, automation tools, data visualization, etc.) 
 - ```embw```: Embedded Workspace (Embedded projects, microcontroller-based applications, RTOS, etc.)
 - ```espw```: ESP-IDF Workspace (Embedded projects developed with ESP32/ESP8266 MCUs, FreeRTOS, MQTT, etc.)
-- ```iotw```: IoT project Workspace (IoT projects, home automation, industrial applications)
-- ```doc```: Includes documentation (algorithms, theory, educational)
+- ```iotw```: IoT project Workspace (IoT projects, home automation, industrial applications, sensor networks, etc.)
+- ```doc```: Includes documentation (technical documents, project reports, whitepapers, etc.)
 - ```mlw```: Machine Learning Workspace (ML/DL projects, computer vision, data science, etc.)
 - ```pyw```: Python Workspace (Python projects, scripts, automation, data analysis, web scraping, etc.)
 - ```edu```: Academic Projects and Labs (University projects, assignments, lab works, etc.)
 - ```webd```: Web Development Workspace (Frontend and backend web applications, APIs, etc.)
 - ```ntvw```: Native Applications Workspace (Desktop and mobile applications, cross-platform development, etc.)
+- ```dbw```: Database Workspace (Database design, SQL/NoSQL projects, data management, etc.)
 
 
 <p style="display:flex; margin-top:20px;">
