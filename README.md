@@ -14,7 +14,7 @@ I have a strong passion for software development. Over the years, I've gained ha
 - ```cppw```: C++ Workspace (Cpp projects, professional libraries, templates, documents, etc.)
 - ```csw```: C# Workspace (C# projects, professional libraries, automation tools, data visualization, etc.) 
 - ```embw```: Embedded Workspace (Embedded projects, microcontroller-based applications, RTOS, etc.)
-- ```espw```: ESP-IDF Workspace (Embedded projects developed with ESP32/ESP8266 MCUs, FreeRTOS, MQTT, etc.)
+- ```esp```: ESP-IDF Workspace (Embedded projects developed with ESP32/ESP8266 MCUs, FreeRTOS, MQTT, etc.)
 - ```iotw```: IoT project Workspace (IoT projects, home automation, industrial applications, sensor networks, etc.)
 - ```doc```: Includes documentation (technical documents, project reports, whitepapers, etc.)
 - ```mlw```: Machine Learning Workspace (ML/DL projects, computer vision, data science, etc.)
